@@ -14,17 +14,19 @@ This is a simple **JavaScript program** that generates a pyramid pattern using t
    ```sh
    node PyramidGenerator.js
 
-🛠️ Technologies Used
-JavaScript
-Node.js
+## 🛠️ Technologies Used
+- JavaScript
+- Node.js
 
-📷 Output Example
+## 📷 Output Example
+```
     !    
    !!!   
   !!!!!  
  !!!!!!! 
 !!!!!!!!!
+```
 
-📌 Author
-Vidushi Paul
-GitHub: @Vidushi-A-Paul
+## 📌 Author
+**Vidushi Paul**  
+GitHub: [@Vidushi-A-Paul](https://github.com/Vidushi-A-Paul)
